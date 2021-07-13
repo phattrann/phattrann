@@ -32,7 +32,6 @@
 - 🔭 &nbsp; I’m currently learning Machine Learning and Deep Learning
 - 🤔 &nbsp; Exploring new technologies
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Data Science Student 
 - 🌱 &nbsp; Enthusiast in Data Analysis and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
