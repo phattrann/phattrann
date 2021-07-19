@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
-</p>
+</p> -->
 <br>
 
  <p align="center">
@@ -23,8 +23,8 @@
 
 <p align="center">
   <em>
-    Hello, I am Phat Tran a <b>Senior</b> Computer Science student from <a href="https://uom.lk/"> <b>HCM City University Of Education</b>, Ho Chi Minh City </a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer
+    Hello, I am Phat Tran a <b>Senior</b> Computer Science student from <a href="https://hcmue.edu.vn/en/"> <b>HCM City University Of Education</b>, Ho Chi Minh City </a>. <br>
+<!--     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer -->
 
 
 
