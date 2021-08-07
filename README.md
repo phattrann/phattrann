@@ -11,7 +11,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Phat Tran </h1>
-<h3 align="center">Data Science Intern</h3>
+<h3 align="center">Computer Science Student</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/phat-tran-824334189/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
 <a href="https://www.facebook.com/trangiaphat.tran/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
@@ -29,13 +29,11 @@
 
 
 ## 👨🏻‍💻 About Me
-- 🔭 &nbsp; I’m currently learning Machine Learning and Deep Learning
-- 🤔 &nbsp; Exploring new technologies
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 🌱 &nbsp; Enthusiast in Data Analysis and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
-
+- ✍️ &nbsp; I'm looking for an internship in Data Science.    
+- 🔭 &nbsp; I’m currently learning Machine Learning and Deep Learning.
+- 🤔 &nbsp; I love to explore new technologies. In other word, I'm a tech savvy person.
+- 🎓 &nbsp; I have strong skills with programming languages and Mathematics.
+- 🌱 &nbsp; Enthusiast in Data Analysis and Computer Vision.
 
 
 <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; -->
