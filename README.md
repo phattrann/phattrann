@@ -2,14 +2,14 @@
   <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
 </p> -->
 <br>
-
+<!-- 
  <p align="center">
 <img src="https://img.shields.io/badge/Age-22-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Ho%20Chi%20Minh-success" />
   <img src="https://img.shields.io/badge/Languages-English%20&%20Vietnamese-brightgreen" />
-</p>
-<hr>
+</p> -->
+<!-- <hr> -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Phat Tran </h1>
 <h3 align="center">Computer Science Student</h3>
 <p align="center">
@@ -31,7 +31,7 @@
 ## 👨🏻‍💻 About Me
 - ✍️ &nbsp; I'm looking for an internship in Data Science.    
 - 🔭 &nbsp; I’m currently learning Machine Learning and Deep Learning.
-- 🤔 &nbsp; I love to explore new technologies. In other word, I'm a tech savvy person.
+- 🤔 &nbsp; I'm a tech savvy person who always love to explore new technologies.
 - 🎓 &nbsp; I have strong skills with programming languages and Mathematics.
 - 🌱 &nbsp; Enthusiast in Data Analysis and Computer Vision.
 
