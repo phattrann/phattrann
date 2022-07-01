@@ -32,7 +32,7 @@
 - ✍️ &nbsp; I'm looking for an internship in Data Science.    
 - 🔭 &nbsp; I’m currently learning Machine Learning and Deep Learning.
 - 🤔 &nbsp; I'm a tech savvy person who always love to explore new technologies.
-- 🎓 &nbsp; I have strong skills with programming languages and Mathematics.
+- 🎓 &nbsp; I have strong skills in programming languages and Mathematics.
 - 🌱 &nbsp; Enthusiast in Data Analysis and Computer Vision.
 
 
