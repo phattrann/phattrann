@@ -13,7 +13,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Phat Tran </h1>
 <h3 align="center">Computer Science Student</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/phat-tran-824334189/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/phat-tran-824334189/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
 <a href="https://www.facebook.com/trangiaphat.tran/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
 <a href = "mailto: phattrann23@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
@@ -23,7 +23,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Phat Tran a <b>Senior</b> Computer Science student from <a href="https://hcmue.edu.vn/en/"> <b>HCM City University Of Education</b>, Ho Chi Minh City </a>. <br>
+    Hello, I am Phat Tran - a Computer Science student from <a href="https://hcmue.edu.vn/en/"> <b>HCM City University Of Education</b>, Ho Chi Minh City </a>. <br>
 <!--     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer -->
 
 
