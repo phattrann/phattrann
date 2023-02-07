@@ -21,16 +21,11 @@
 
 
 
-<p align="center">
-  <em>
-    Hello, I am Phat Tran - a Computer Science student from <a href="https://hcmue.edu.vn/en/"> <b>HCM City University Of Education</b>, Ho Chi Minh City </a>. <br>
-<!--     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer -->
 
 
 
-## 👨🏻‍💻 About Me
-- ✍️ &nbsp; I'm looking for an internship in Data Science.    
-- 🔭 &nbsp; I’m currently learning Machine Learning and Deep Learning.
+
+## 👨🏻‍💻 About Me   
 - 🤔 &nbsp; I'm a tech savvy person who always love to explore new technologies.
 - 🎓 &nbsp; I have strong skills in programming languages and Mathematics.
 - 🌱 &nbsp; Enthusiast in Data Analysis and Computer Vision.
