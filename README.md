@@ -14,7 +14,6 @@
 <h3 align="center">Computer Science Student</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/phat-tran-824334189/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.facebook.com/trangiaphat.tran/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
 <a href = "mailto: phattrann23@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
