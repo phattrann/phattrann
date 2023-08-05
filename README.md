@@ -25,9 +25,11 @@
 
 
 ## 👨🏻‍💻 About Me   
-- 🤔 &nbsp; I'm a tech savvy person who always love to explore new technologies.
-- 🎓 &nbsp; I have strong skills in programming languages and Mathematics.
-- 🌱 &nbsp; Enthusiast in Data Analysis and Computer Vision.
+- &nbsp; I'm a tech-savvy person who always loves to explore new technologies.
+- &nbsp; I have strong skills in programming languages and Mathematics.
+- &nbsp; Enthusiast in NLP and Computer Vision.
+- &nbsp; Experienced in Generative AI, E-commerce, Fintech
+
 
 
 <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; -->
