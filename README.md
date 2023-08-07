@@ -57,25 +57,4 @@
 
 <!--   <p align="center"> -->
 
-## 📈 Github Stats
-    
-<details>
-  <summary>📊 GitHub Profile Stats</summary>
-  <br/>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phattrann&show_icons=true&theme=calm)
 
-</details>
-
-<details> 
-  <summary>💻 Most used languages</summary>
-  <br/>
-  
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phattrann&langs_count=5&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
-
-  <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-</details>
-
-<hr>
