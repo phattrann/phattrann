@@ -14,7 +14,7 @@
 <h3 align="center">AI Enthusiast</h3>
 <h3 align="center">E-commerce | Fintech</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/phat-tran-824334189/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/phattrann/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
 <a href = "mailto: phattrann23@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
