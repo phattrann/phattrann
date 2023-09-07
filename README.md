@@ -12,7 +12,7 @@
 <!-- <hr> -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Phat Tran </h1>
 <h3 align="center">AI Enthusiast</h3>
-<h3 align="center">Generative AI | E-commerce | Fintech</h3>
+<h3 align="center">E-commerce | Fintech</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/phat-tran-824334189/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
 <a href = "mailto: phattrann23@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
@@ -26,7 +26,7 @@
 
 
 ## 👨🏻‍💻 About Me   
-- &nbsp; I'm a tech-savvy person who always loves to explore new technologies.
+- &nbsp; I'm a tech-savvy person who has 2+ years of industrial experience in Machine Learning.
 - &nbsp; I have strong skills in programming languages and Mathematics.
 - &nbsp; Enthusiast in NLP and Computer Vision.
 
